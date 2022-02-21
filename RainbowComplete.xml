@@ -1,6 +1,6 @@
 <ColorMaps>
     <ColorMap name="RainbowComplete" space="RGB">
-	<Point x="0.0000"  o="0.000000" r="255" g="225" b="225"/>
+	<Point x="0.0000" r="255" g="225" b="225"/>
 	<Point x="0.0001" r="255" g="254" b="254"/>
 	<Point x="0.0002" r="255" g="253" b="253"/>
 	<Point x="0.0003" r="255" g="252" b="252"/>
