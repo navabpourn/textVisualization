@@ -1,2 +1,2 @@
-# textVisualization
-Text visualization
+# Visualization
+Here I want to add everything I need for visualization.
